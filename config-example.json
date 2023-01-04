@@ -1,0 +1,7 @@
+{
+    "prefix": "[",
+    "database":"database.db",
+    "token": "YOUR TOKEN HERE",
+    "ownerid":"BOT OWNER ID HERE",
+    "languague":"en-us"
+}

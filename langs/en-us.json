@@ -1,0 +1,111 @@
+{
+  "editdesc": "Edited description",
+  "help": "Help",
+  "dailycongr": "Congratulations! You received %s coins in the daily gift",
+  "wcongrat": "Congratulations! You received %s coins in the weekly gift",
+  "usernotfound": "User not found.",
+  "gived": "you gave %s %s coins!",
+  "donttrydirt": "Don't try those dirty tricks on me -_- ",
+  "wcountdown": "Please wait until %D, %H Hours, %M Minutes and %S seconds left",
+  "selfgive": "You can't give yourself an idiot!",
+  "givemore": "You can't give away more than you have, someone teach this noob math.",
+  "helpdesc": "Bot command list",
+  "pingdesc": "Test the bot's ping",
+  "givedesc": "Command to transfer balance to another user",
+  "baldesc": "Show current balance",
+  "dailydesc": "Command to redeem the daily gift",
+  "weeklydesc": "Command to redeem the weekly freebie",
+  "rankdesc": "Shows the current rank of coins",
+  "editplaydesc": "Command to modify current activity [only owner can use]",
+  "pingtext": "Pong!  ",
+  "shipdesc": "love meter for two people mentioned.",
+  "lovetest": "Love test for:",
+  "loveresult": "Result:",
+  "0percent": {
+    "status": "Really low! ",
+    "values": [
+      "Friendzone ;(",
+      "Just friends'",
+      "'Friends'",
+      "Little or no love",
+      "There is almost no love ;("
+    ]
+  },
+  "10percent": {
+    "status": "Low! ",
+    "values": [
+      "Stay in the friendzone",
+      "Still in the friendzone ;(",
+      "Not much love here... ;("
+    ]
+  },
+  "20percent": {
+    "status": "Little bit! ",
+    "values": [
+      "They look like brothers!",
+      "But there's a little love somewhere!",
+      "I feel some brotherly love!",
+      "Looks like a little friendship"
+    ]
+  },
+  "30percent": {
+    "status": "Normal! ",
+    "values": [
+      "are nothing but friends",
+      "There's a little love there...",
+      "Love food more than each other"
+    ]
+  },
+  "41-59percent": {
+    "status": "Moderate! ",
+    "values": [
+      "But it's too one-sided OwO",
+      "It seems one-sided!",
+      "There is some potential!",
+      "I feel a little potential!",
+      "There's quite a bit of romance going on here!",
+      " I feel like there's some romance going on! ",
+      " Love is getting there... "
+    ]
+  },
+  "60percent": {
+    "status": "Good! ",
+    "values": [
+      "I feel the romance progressing!",
+      "There's a little love in the air!",
+      "I'm starting to feel some love!"
+    ]
+  },
+  "70percent": {
+    "status": "Above average! ",
+    "values": [
+      "I suspect they are having an affair on the sly!",
+      "I can see the love is there! ",
+      "I can definitely see that love is in the air"
+    ]
+  },
+  "90percent": {
+    "status": "Great! ",
+    "values": [
+      "Love is in the air!",
+      "I can definitely feel the love",
+      "I feel the love! ",
+      "There is a matching sign!",
+      "I feel a match! ",
+      " A few things can be fixed to make it a match made in heaven! "
+    ]
+  },
+  "91-100percent": {
+    "status": "True love! ",
+    "values": [
+      "They match perfectly!",
+      "Get caught soon!",
+      "When will the wedding be?",
+      "If they're already secretly dating I wouldn't be surprised!"
+    ]
+  },
+  "comandonotfound": "This command does not exist. ",
+  "erroexecutando": "Error executing command %s:%s",
+  "erroinesperado": "An unexpected error occurred while running this command.",
+  "saldotexto":"bancary extract"
+}
