@@ -1,8 +1,8 @@
 # discord-bot
 python3  nextcord bot com sqlite start easy with:
 ```
-git clone https://github.com/peccato/discord-bot.git
-cd discord-bot
+git clone https://github.com/Miawshmallow/nextcord-bot.git
+cd nextcord-bot
 virtualenv discordbot
 source discordbot/bin/activate
 pip install -r requeriments.txt
